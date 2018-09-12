@@ -1,0 +1,8 @@
+##ScanFramwork 1.0##
+
+Help:
+	-r : Set the request file.
+	-t : Set num of threads.
+	-p : Set the string to match in the response which indicates the success.
+	-h : Show this help.
+
